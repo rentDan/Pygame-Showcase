@@ -54,6 +54,10 @@ def main():
     sleep(0.5)
     
     runGame3()
+    
+    print_load(3, 0.50)
+    print_natural("\nI hope you enjoyed the games.\n", 0.05)
+    sleep(0.5)
 
 
 if __name__ == "__main__":
